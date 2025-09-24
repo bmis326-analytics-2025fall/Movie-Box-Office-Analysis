@@ -1,6 +1,6 @@
 # Movie-Box-Office-Analysis
 ### Team Members
-Trevor N, 
+Trevor N,  
 ## Overview
 This Project analyzes what factors influence movie box office success.
 
